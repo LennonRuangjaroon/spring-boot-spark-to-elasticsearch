@@ -44,7 +44,7 @@ public class SpringBootSparkToElasticsearchApplication implements ApplicationRun
     @Override
     public void run(ApplicationArguments applicationArguments) throws Exception {
 
-        LOGGER.info("SpringBootSparkToElasticsearchApplication: {}, {}, {}, {}", nodes, port, resource, indexAutoCreate);
+        LOGGER.info("SpringBootSpark To Elasticsearch Application: {}, {}, {}, {}", nodes, port, resource, indexAutoCreate);
 
         String master = "local[*]";
 
