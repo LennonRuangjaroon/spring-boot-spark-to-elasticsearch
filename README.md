@@ -12,7 +12,6 @@
 
 ### Elasticsearch Hadoop
 
-
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch-hadoop</artifactId>
@@ -20,11 +19,11 @@
     </dependency>
     
  ### Hibernate-validator
- - [spark-maven-dependency](http://stackoverflow.com/questions/40159372/spark-maven-dependency-breaks-down-sprint-boot-application)
-
-
+ 
      <dependency>
          <groupId>org.hibernate</groupId>
          <artifactId>hibernate-validator</artifactId>
          <version>5.3.0.Final</version>
      </dependency>
+     
+ - [spark-maven-dependency](http://stackoverflow.com/questions/40159372/spark-maven-dependency-breaks-down-sprint-boot-application)
