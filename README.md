@@ -21,9 +21,8 @@
     
  ### Hibernate-validator
  
-  - [spark-maven-dependency]('http://stackoverflow.com/questions/40159372/spark-maven-dependency-breaks-down-sprint-boot-application'')
- 
- 
+  - [spark-maven-dependency]('http://stackoverflow.com/questions/40159372/spark-maven-dependency-breaks-down-sprint-boot-application')
+
  
      <dependency>
          <groupId>org.hibernate</groupId>
